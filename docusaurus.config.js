@@ -56,6 +56,7 @@ const config = {
           logo: {
             alt: 'ARC Logo',
             src: 'img/logo.svg',
+            href: '/arc-commune/docs/IRS',
           },
           items: [
             {

@@ -1,3 +1,9 @@
+---
+id: IRS
+title: Instance Read Send Architecture
+sidebar_label: IRS Overview
+---
+
 # IRS.md — Instance Read Send Architecture
 
 ## 📌 Назначение
