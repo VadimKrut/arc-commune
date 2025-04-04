@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarc_commune=self.webpackChunkarc_commune||[]).push([[2634],{9179:(c,e,u)=>{u.r(e),u.d(e,{default:()=>s});u(6540);var r=u(6347),n=u(4848);function s(){return(0,n.jsx)(r.rd,{to:"/docs/IRS"})}}}]);

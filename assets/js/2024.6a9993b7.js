@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarc_commune=self.webpackChunkarc_commune||[]).push([[2024],{2024:(e,c,r)=>{r.d(c,{createArchitectureServices:()=>u.S});var u=r(8815);r(3579)}}]);
